@@ -56,9 +56,9 @@ Responsive personal portfolio website showcasing projects and skills.
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=likithachirumilla2003&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=likithachirumamilla2003&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=likithachirumilla2003&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=likithachirumamilla2003&layout=compact&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=likithachirumilla2003&layout=compact&theme=tokyonight)
 
