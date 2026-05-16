@@ -84,20 +84,6 @@ Responsive portfolio website showcasing projects, skills, and contact details.
 🔗 Repo:  
 https://github.com/likithachirumamilla2003/HTML-Portfolio
 
----
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=likithachirumamilla2003&show_icons=true&theme=radical" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likithachirumamilla2003&layout=compact&theme=radical" height="180"/>
-
-</p>
-
-
----
-
 ## 📈 Contribution Graph
 
 [![Sai Likitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=likithachirumamilla2003&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
