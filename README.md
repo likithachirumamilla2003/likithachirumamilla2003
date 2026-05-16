@@ -85,16 +85,16 @@ Responsive portfolio website showcasing projects, skills, and contact details.
 https://github.com/likithachirumamilla2003/HTML-Portfolio
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=likithachirumamilla2003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=likithachirumamilla2003&show_icons=true&theme=radical" height="180"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likithachirumamilla2003&layout=compact&langs_count=7&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likithachirumamilla2003&layout=compact&theme=radical" height="180"/>
 
 </p>
+
 
 ---
 
